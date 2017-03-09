@@ -16,12 +16,6 @@ Demo版
 Github链接：
 https://github.com/CMonoceros/Encrypt/
 
-服务器单独链接：
-https://github.com/CMonoceros/Java/tree/master/Encrypt
-
-客户端单独链接：
-https://github.com/CMonoceros/Android/tree/master/Encrypt
-
 开发者联系方式：
 QQ：448172381
 邮箱：448172381@qq.com
